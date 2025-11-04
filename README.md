@@ -9,6 +9,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-PRAGNA-blue?logo=twitter)](https://x.com/PRAGNALABS).
 
 ```
+CA: GFhXVvSzTMZhubyn1Gh68KnYxTy5bdBFmHiFkJ64pump
+
 PRAGNA is not built to predict, but to adapt. 
 
 When volatility spikes, it recalibrates. 
