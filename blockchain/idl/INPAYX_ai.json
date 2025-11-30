@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "MYCORM_ai",
+  "name": "INPAYX_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for MYCORM with specified parameters.",
+        "Initializes a new governance realm for INPAYX with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $MYCORM
+      $INPAYX
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -38,7 +38,7 @@ async function main() {
   const modules = loadModules(["token", "staking", "governance"]);
   const project = composeProject(modules);
 
-        $MYCORM
+        $INPAYX
         )}
 
     
@@ -88,10 +88,10 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $MYCORM
+        $INPAYX
         )}
 
-        $MYCORM
+        $INPAYX
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
@@ -215,7 +215,7 @@ $MYCORM
         {
            if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
-          $MYCORM
+          $INPAYX
           )}
           
           "name": "chapterId",
@@ -286,7 +286,7 @@ $MYCORM
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-      $MYCORM
+      $INPAYX
       )}
 
       "name": "voteOnProposal",
@@ -343,13 +343,13 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
 
-   $MYCORM
+   $INPAYX
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
    )}
 
-   $MYCORM
+   $INPAYX
   "accounts": [
     {
       "name": "Realm",
